@@ -1,4 +1,4 @@
 
-![ Alt text](ChattingApp.gif) / 
-! [](ChattingApp.gif)
+![ Alt text](ChattingApp.gif) 
+![](ChattingApp.gif)
 ![](ReadMe.gif)
